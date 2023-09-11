@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.border{
+    border: 0;
+    text-align: center;
+}
+
+header{
+    background-color: darkslateblue;
+    color: aliceblue;
+    text-align: center;
+    height: 50px;
+}
+
+.banner{
+    background-color: aquamarine;
+    height: 100px;
+    color: black;
+    text-align: center;
+}
+.service{
+    display: flex;
+}
+.box_left{
+    background-color: blueviolet;
+    color: rgb(23, 23, 177);
+    height: 500px;
+    width: 50%;
+    text-align: center;
+}
+.box_right{
+    background-color: rgb(205, 173, 235);
+    color: rgb(3, 3, 39);
+    height: 500px;
+    width: 50%;
+    text-align: center;
+}
+.feature{
+    display: flex;
+
+}
+.feature1{
+    width: 33.3%;
+    height: 400px;
+    background-color: brown;
+    color: aquamarine;
+    text-align: center;
+}
+.feature2{
+    width: 33.3%;
+    height: 400px;
+    background-color: rgb(62, 17, 17);
+    color: aquamarine;
+    text-align: center;
+}
+.feature3{
+    width: 33.3%;
+    height: 400px;
+    background-color: rgb(246, 94, 94);
+    color: aquamarine;
+    text-align: center;
+}
+.add{
+    display: flex;
+}
+.left_block{
+    width: 70%;
+    height: 100px;
+    background-color: deepskyblue;
+    color: black;
+    text-align: center;
+}
+.right_block{
+    width: 30%;
+    height: 100px;
+    background-color: rgb(3, 67, 89);
+    color: rgb(237, 234, 234);
+    text-align: center;
+}
+footer{
+    background-color: darkgrey;
+    height: 100px;
+    color: black;
+    text-align: center;
+}
